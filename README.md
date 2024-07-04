@@ -1,10 +1,3 @@
-"# DormitorySystem"
-
-Java + mysql 学生宿舍管理系统
-
-采用MVC的设计模式，是java学习阶段的小项目，仅供学习使用
-
-
 ### 数据库连接相关
 ```
 private static final String url = "jdbc:mysql://localhost:3306/domitory";
